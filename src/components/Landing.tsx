@@ -1,4 +1,4 @@
-import { MapPin, TrendingUp, Users, Building2, Lightbulb, BarChart3, X, HelpCircle, Play } from "lucide-react";
+import { MapPin, TrendingUp, Users, Building2, Lightbulb, BarChart3, X, Play } from "lucide-react";
 import logoImage from "../assets/Logo.png";
 import { useState } from "react";
 
