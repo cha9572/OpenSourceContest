@@ -9,7 +9,7 @@ export class SGlobal {
   }
 }
 
-interface IEnvironments {
+export interface IEnvironments {
   OPENAI_API_KEY?: string;
   PORT: `${number}`;
 }
